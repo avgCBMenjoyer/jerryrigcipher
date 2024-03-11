@@ -1,0 +1,4 @@
+/home/pasindu/Downloads/matty_midtermdm/ciphertest1/ciphertest1/obj/Debug/net8.0/ciphertest1.GeneratedMSBuildEditorConfig.editorconfig
+/home/pasindu/Downloads/matty_midtermdm/ciphertest1/ciphertest1/obj/Debug/net8.0/ciphertest1.AssemblyInfoInputs.cache
+/home/pasindu/Downloads/matty_midtermdm/ciphertest1/ciphertest1/obj/Debug/net8.0/ciphertest1.AssemblyInfo.cs
+/home/pasindu/Downloads/matty_midtermdm/ciphertest1/ciphertest1/obj/Debug/net8.0/ciphertest1.csproj.CoreCompileInputs.cache
